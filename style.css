@@ -30,7 +30,7 @@ nav ul li{
     width: 110px;
     margin-top: 10px;
     height: 43px;
-    filter: brightness(1) invert(1);
+    
 }
 .brand{
     color: white;
