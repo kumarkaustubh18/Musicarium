@@ -60,14 +60,14 @@ nav ul li{
     margin: 23px auto;
     border-radius: 12px;
     padding: 34px;
-    background-image: url(body.jpg);
+    background-image: url(img/body.jpg);
 }
 .icons{
     margin-top:22px;
 }
   
 body{
-    background-color: antiquewhite;
+    background-color:#121211;
     color:white;
     font-family: 'Varela Round', sans-serif;
 }
